@@ -1,2 +1,10 @@
 # Wired_Wireless
-Routing protocols-Techniques-OSPF-IGRP-Wired-Wireless-AODV-DSDV
+Routing protocols-
+Routing Techniques
+OSPF
+IGRP
+Wired
+Wireless
+AODV
+DSDV
+Queue Techniques(RED - Droptail)
